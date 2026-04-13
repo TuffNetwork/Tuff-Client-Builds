@@ -27,7 +27,7 @@ body:
     attributes:
       label: Version(s)
       description: What versions of TuffClient have this bug?
-      options: 1.0, 1.1UT13, 1.1UT12...
+      placeholder: 1.0, 1.1UT13, 1.1UT12...
     validations:
       required: true
   - type: checkboxes
