@@ -17,8 +17,9 @@ body:
   - type: markdown
     id: info
     attributes:
-      label: Additional Information
-      description: Provide links, screenshots, etc to greater explain your feature or compatibility request.
+      value: |
+          Additional Information
+          Provide links, screenshots, etc to greater explain your feature or compatibility request.
     validations:
       required: false
   - type: checkboxes
