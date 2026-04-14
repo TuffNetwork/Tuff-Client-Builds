@@ -36,7 +36,7 @@ body:
       label: Agreements
       description: "By submitting this issue, you understand that:"
       options:
-        - label: I have checked the pinned issue(s) if this issue has been explained
+        - label: I have checked the pinned issue(s), including the one called 'READ FIRST', if this issue has been explained
         - label: I have searched previous issues to see if this bug has already been reported
         - label: I have ignored this and checked all the boxes
         - label: I have given all the information I can to help the developers understand/reproduce this bug
