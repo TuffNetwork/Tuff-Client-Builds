@@ -31,3 +31,4 @@ body:
         - label: I have searched previous issues to see if this feature has already been requested or added
         - label: I have ignored this and checked all the boxes
         - label: I have given all the information I can to help the developers understand this request
+        - label: "I have requested only *one* feature in this issue"
