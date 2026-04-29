@@ -42,4 +42,5 @@ body:
         - label: I have given all the information I can to help the developers understand/reproduce this bug
         - label: "I have reported only *one* bug in this issue"
   - type: markdown
-    value: "*Reports that do not fulfill the requirements will be marked invalid, ignored, and/or closed. This includes failure to do the required actions on the Agreements section.*"
+    attributes:
+      value: "*Reports that do not fulfill the requirements will be marked invalid, ignored, and/or closed. This includes failure to do the required actions on the Agreements section.*"
