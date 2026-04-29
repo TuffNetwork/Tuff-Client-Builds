@@ -26,8 +26,8 @@ body:
     id: version
     attributes:
       label: Version(s)
-      description: What versions of TuffClient have this bug?
-      placeholder: 1.0, 1.1UT13, 1.1UT12...
+      description: What versions of TuffClient have this bug? (include the client type as well)
+      placeholder: 1.0, 1.1UT13, 1.1UT12, WASM, JS, Web Runtime, etc
     validations:
       required: true
   - type: checkboxes
