@@ -1,7 +1,7 @@
 name: Bug Report
 description: Report a bug with TuffClient
 
-labels: "bug,needs-testing"
+labels: "Bug,Needs Testing"
 title: "[Bug]: "
 type: Bug
 
